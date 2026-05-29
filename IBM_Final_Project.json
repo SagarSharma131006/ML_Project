@@ -1,0 +1,13 @@
+{
+	"id": "7ce7a629-6057-4a72-a4e2-6dea36ce3c82",
+	"crn": "crn:v1:bluemix:public:project:us-south:a/1c167c3d6444498fae52d8314fc9322e:7ce7a629-6057-4a72-a4e2-6dea36ce3c82::",
+	"definition": {
+		"name": "IBM_Final_Project",
+		"description": "",
+		"destroy_on_delete": true
+	},
+	"configs": [],
+	"environments": [],
+	"resource_group_id": "4541b04b50e44727a1fa52f93a7198c3",
+	"location": "us-south"
+}
